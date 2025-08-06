@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  role_name: note_app
+  role_name: ansible-note-app-role
   author: Ahmed Lebshten
   description: >
     Ansible role to deploy a Flask-based Note Taking application 
