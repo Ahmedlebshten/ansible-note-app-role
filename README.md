@@ -1,0 +1,1 @@
+here is ansible role for ansible-note-taking-app
